@@ -8,7 +8,7 @@
 
 > 这里是使用该 API 的示例站点
 
-- [今日热榜 - https://hot.lhzzs.top/](https://hot.lhzzs.top/)
+- [今日热榜 - https://hot.dshuais.com/](https://hot.dshuais.com/)
 
 ## 总览
 
